@@ -4,7 +4,7 @@
         "complexity_level": 8,
         "target_action_sequence": [
             "(unmount_node orange red)",
-            "(mount_node orange other)",
+            "(release_payload orange)",
             "(unmount_node red blue)",
             "(mount_node red orange)",
             "(engage_payload blue)",
@@ -18,12 +18,12 @@
         "complexity_level": 10,
         "target_action_sequence": [
             "(unmount_node red yellow)",
-            "(mount_node red other)",
+            "(release_payload red)",
             "(unmount_node orange blue)",
-            "(mount_node orange second)",
+            "(mount_node orange yellow)",
             "(engage_payload blue)",
             "(mount_node blue red)",
-            "(unmount_node orange second)",
+            "(unmount_node orange yellow)",
             "(mount_node orange blue)",
             "(engage_payload yellow)",
             "(mount_node yellow orange)"
@@ -34,16 +34,16 @@
         "complexity_level": 12,
         "target_action_sequence": [
             "(unmount_node blue yellow)",
-            "(mount_node blue other)",
+            "(release_payload blue)",
             "(unmount_node yellow red)",
-            "(mount_node yellow second)",
+            "(release_payload yellow)",
             "(unmount_node red orange)",
             "(mount_node red blue)",
             "(engage_payload orange)",
             "(mount_node orange yellow)",
             "(unmount_node red blue)",
             "(mount_node red orange)",
-            "(unmount_node blue other)",
+            "(engage_payload blue)",
             "(mount_node blue red)"
         ]
     },
@@ -52,18 +52,18 @@
         "complexity_level": 14,
         "target_action_sequence": [
             "(unmount_node yellow red)",
-            "(mount_node yellow other)",
+            "(release_payload yellow)",
             "(unmount_node red white)",
-            "(mount_node red second)",
+            "(mount_node red yellow)",
             "(unmount_node white orange)",
             "(mount_node white red)",
             "(unmount_node orange blue)",
-            "(mount_node orange yellow)",
+            "(release_payload orange)",
             "(engage_payload blue)",
             "(mount_node blue orange)",
             "(unmount_node white red)",
             "(mount_node white blue)",
-            "(unmount_node red second)",
+            "(unmount_node red yellow)",
             "(mount_node red white)"
         ]
     },
@@ -72,16 +72,16 @@
         "complexity_level": 16,
         "target_action_sequence": [
             "(unmount_node orange red)",
-            "(mount_node orange other)",
+            "(release_payload orange)",
             "(unmount_node red blue)",
-            "(mount_node red second)",
+            "(release_payload red)",
             "(unmount_node blue white)",
             "(release_payload blue)",
             "(unmount_node white yellow)",
             "(release_payload white)",
             "(engage_payload yellow)",
             "(mount_node yellow red)",
-            "(unmount_node orange other)",
+            "(engage_payload orange)",
             "(mount_node orange yellow)",
             "(engage_payload blue)",
             "(mount_node blue orange)",
@@ -94,11 +94,11 @@
         "complexity_level": 8,
         "target_action_sequence": [
             "(unmount_node red yellow)",
-            "(mount_node red other)",
+            "(release_payload red)",
             "(engage_payload blue)",
             "(mount_node blue red)",
             "(unmount_node yellow orange)",
-            "(mount_node yellow second)",
+            "(release_payload yellow)",
             "(engage_payload orange)",
             "(mount_node orange blue)"
         ]
@@ -124,16 +124,16 @@
         "complexity_level": 12,
         "target_action_sequence": [
             "(unmount_node yellow blue)",
-            "(mount_node yellow other)",
+            "(release_payload yellow)",
             "(unmount_node blue red)",
-            "(mount_node blue second)",
+            "(mount_node blue yellow)",
             "(unmount_node red orange)",
-            "(mount_node red yellow)",
-            "(unmount_node blue second)",
+            "(release_payload red)",
+            "(unmount_node blue yellow)",
             "(mount_node blue orange)",
-            "(unmount_node red yellow)",
+            "(engage_payload red)",
             "(mount_node red blue)",
-            "(unmount_node yellow other)",
+            "(engage_payload yellow)",
             "(mount_node yellow red)"
         ]
     },
@@ -184,12 +184,12 @@
         "complexity_level": 8,
         "target_action_sequence": [
             "(unmount_node blue orange)",
-            "(mount_node blue other)",
+            "(release_payload blue)",
             "(unmount_node orange red)",
-            "(mount_node orange second)",
+            "(release_payload orange)",
             "(engage_payload red)",
             "(mount_node red orange)",
-            "(unmount_node blue other)",
+            "(engage_payload blue)",
             "(mount_node blue red)"
         ]
     },
@@ -198,12 +198,12 @@
         "complexity_level": 10,
         "target_action_sequence": [
             "(unmount_node red yellow)",
-            "(mount_node red other)",
+            "(release_payload red)",
             "(unmount_node yellow blue)",
-            "(mount_node yellow second)",
+            "(release_payload yellow)",
             "(unmount_node blue orange)",
             "(mount_node blue yellow)",
-            "(unmount_node red other)",
+            "(engage_payload red)",
             "(mount_node red blue)",
             "(engage_payload orange)",
             "(mount_node orange red)"
@@ -214,16 +214,16 @@
         "complexity_level": 12,
         "target_action_sequence": [
             "(unmount_node orange blue)",
-            "(mount_node orange other)",
+            "(release_payload orange)",
             "(unmount_node blue red)",
-            "(mount_node blue second)",
+            "(release_payload blue)",
             "(unmount_node red yellow)",
             "(mount_node red orange)",
             "(engage_payload yellow)",
             "(mount_node yellow blue)",
             "(unmount_node red orange)",
             "(mount_node red yellow)",
-            "(unmount_node orange other)",
+            "(engage_payload orange)",
             "(mount_node orange red)"
         ]
     },
@@ -232,12 +232,12 @@
         "complexity_level": 8,
         "target_action_sequence": [
             "(unmount_node yellow blue)",
-            "(mount_node yellow other)",
+            "(mount_node yellow red)",
             "(unmount_node blue orange)",
-            "(mount_node blue red)",
+            "(release_payload blue)",
             "(engage_payload orange)",
             "(mount_node orange yellow)",
-            "(unmount_node blue red)",
+            "(engage_payload blue)",
             "(mount_node blue orange)"
         ]
     },
@@ -246,12 +246,12 @@
         "complexity_level": 10,
         "target_action_sequence": [
             "(unmount_node red blue)",
-            "(mount_node red other)",
+            "(release_payload red)",
             "(unmount_node blue orange)",
-            "(mount_node blue second)",
+            "(release_payload blue)",
             "(unmount_node orange yellow)",
             "(mount_node orange red)",
-            "(unmount_node blue second)",
+            "(engage_payload blue)",
             "(mount_node blue orange)",
             "(engage_payload yellow)",
             "(mount_node yellow blue)"
@@ -280,12 +280,12 @@
         "complexity_level": 8,
         "target_action_sequence": [
             "(unmount_node blue orange)",
-            "(mount_node blue other)",
+            "(release_payload blue)",
             "(unmount_node orange red)",
-            "(mount_node orange second)",
-            "(unmount_node blue other)",
+            "(release_payload orange)",
+            "(engage_payload blue)",
             "(mount_node blue red)",
-            "(unmount_node orange second)",
+            "(engage_payload orange)",
             "(mount_node orange blue)"
         ]
     },
@@ -310,14 +310,14 @@
         "complexity_level": 12,
         "target_action_sequence": [
             "(unmount_node blue orange)",
-            "(mount_node blue other)",
+            "(release_payload blue)",
             "(unmount_node orange yellow)",
-            "(mount_node orange second)",
+            "(release_payload orange)",
             "(unmount_node yellow red)",
             "(release_payload yellow)",
-            "(unmount_node blue other)",
+            "(engage_payload blue)",
             "(mount_node blue yellow)",
-            "(unmount_node orange second)",
+            "(engage_payload orange)",
             "(mount_node orange blue)",
             "(engage_payload red)",
             "(mount_node red orange)"
@@ -342,9 +342,9 @@
         "complexity_level": 10,
         "target_action_sequence": [
             "(unmount_node red white)",
-            "(mount_node red other)",
+            "(release_payload red)",
             "(unmount_node white orange)",
-            "(mount_node white second)",
+            "(release_payload white)",
             "(unmount_node blue yellow)",
             "(mount_node blue white)",
             "(engage_payload orange)",
@@ -358,16 +358,16 @@
         "complexity_level": 12,
         "target_action_sequence": [
             "(unmount_node yellow red)",
-            "(mount_node yellow other)",
+            "(release_payload yellow)",
             "(unmount_node red orange)",
-            "(mount_node red second)",
+            "(mount_node red yellow)",
             "(unmount_node orange blue)",
             "(release_payload orange)",
-            "(unmount_node red second)",
+            "(unmount_node red yellow)",
             "(mount_node red orange)",
             "(engage_payload blue)",
             "(mount_node blue red)",
-            "(unmount_node yellow other)",
+            "(engage_payload yellow)",
             "(mount_node yellow blue)"
         ]
     },
@@ -406,12 +406,12 @@
         "complexity_level": 12,
         "target_action_sequence": [
             "(unmount_node yellow orange)",
-            "(mount_node yellow other)",
+            "(mount_node yellow white)",
             "(unmount_node orange blue)",
-            "(mount_node orange second)",
-            "(unmount_node yellow other)",
+            "(release_payload orange)",
+            "(unmount_node yellow white)",
             "(mount_node yellow blue)",
-            "(unmount_node orange second)",
+            "(engage_payload orange)",
             "(mount_node orange yellow)",
             "(unmount_node white red)",
             "(mount_node white orange)",
@@ -454,16 +454,16 @@
         "complexity_level": 12,
         "target_action_sequence": [
             "(unmount_node red orange)",
-            "(mount_node red other)",
+            "(release_payload red)",
             "(unmount_node orange yellow)",
-            "(mount_node orange second)",
+            "(release_payload orange)",
             "(unmount_node yellow blue)",
             "(mount_node yellow orange)",
-            "(unmount_node red other)",
+            "(engage_payload red)",
             "(mount_node red blue)",
             "(unmount_node yellow orange)",
             "(mount_node yellow red)",
-            "(unmount_node orange second)",
+            "(engage_payload orange)",
             "(mount_node orange yellow)"
         ]
     },
@@ -486,15 +486,15 @@
         "complexity_level": 10,
         "target_action_sequence": [
             "(unmount_node yellow orange)",
-            "(mount_node yellow other)",
+            "(release_payload yellow)",
             "(unmount_node orange blue)",
-            "(mount_node orange second)",
+            "(release_payload orange)",
             "(unmount_node blue red)",
             "(release_payload blue)",
-            "(unmount_node yellow other)",
-            "(mount_node yellow blue)",
             "(engage_payload red)",
-            "(mount_node red orange)"
+            "(mount_node red orange)",
+            "(engage_payload yellow)",
+            "(mount_node yellow blue)"
         ]
     },
     {
@@ -502,14 +502,14 @@
         "complexity_level": 12,
         "target_action_sequence": [
             "(unmount_node orange yellow)",
-            "(mount_node orange other)",
+            "(release_payload orange)",
             "(unmount_node yellow white)",
             "(mount_node yellow orange)",
             "(unmount_node white red)",
-            "(mount_node white second)",
+            "(release_payload white)",
             "(unmount_node red blue)",
             "(mount_node red yellow)",
-            "(unmount_node white second)",
+            "(engage_payload white)",
             "(mount_node white red)",
             "(engage_payload blue)",
             "(mount_node blue white)"
@@ -520,12 +520,12 @@
         "complexity_level": 8,
         "target_action_sequence": [
             "(unmount_node orange blue)",
-            "(mount_node orange other)",
+            "(release_payload orange)",
             "(unmount_node blue yellow)",
-            "(mount_node blue second)",
+            "(release_payload blue)",
             "(engage_payload red)",
             "(mount_node red yellow)",
-            "(unmount_node orange other)",
+            "(engage_payload orange)",
             "(mount_node orange red)"
         ]
     },
@@ -534,14 +534,14 @@
         "complexity_level": 10,
         "target_action_sequence": [
             "(unmount_node yellow red)",
-            "(mount_node yellow other)",
+            "(release_payload yellow)",
             "(unmount_node red blue)",
-            "(mount_node red second)",
+            "(release_payload red)",
             "(engage_payload orange)",
             "(mount_node orange blue)",
-            "(unmount_node yellow other)",
+            "(engage_payload yellow)",
             "(mount_node yellow orange)",
-            "(unmount_node red second)",
+            "(engage_payload red)",
             "(mount_node red yellow)"
         ]
     },
@@ -568,12 +568,12 @@
         "complexity_level": 8,
         "target_action_sequence": [
             "(unmount_node blue orange)",
-            "(mount_node blue other)",
+            "(release_payload blue)",
             "(unmount_node yellow red)",
-            "(mount_node yellow second)",
+            "(release_payload yellow)",
             "(engage_payload red)",
             "(mount_node red orange)",
-            "(unmount_node blue other)",
+            "(engage_payload blue)",
             "(mount_node blue red)"
         ]
     },
@@ -582,14 +582,14 @@
         "complexity_level": 10,
         "target_action_sequence": [
             "(unmount_node red blue)",
-            "(mount_node red other)",
+            "(release_payload red)",
             "(unmount_node blue yellow)",
-            "(mount_node blue second)",
+            "(release_payload blue)",
             "(engage_payload yellow)",
             "(mount_node yellow orange)",
-            "(unmount_node red other)",
+            "(engage_payload red)",
             "(mount_node red yellow)",
-            "(unmount_node blue second)",
+            "(engage_payload blue)",
             "(mount_node blue red)"
         ]
     },
@@ -616,10 +616,10 @@
         "complexity_level": 8,
         "target_action_sequence": [
             "(unmount_node orange yellow)",
-            "(mount_node orange other)",
+            "(release_payload orange)",
             "(unmount_node yellow blue)",
-            "(mount_node yellow second)",
-            "(unmount_node orange other)",
+            "(release_payload yellow)",
+            "(engage_payload orange)",
             "(mount_node orange yellow)",
             "(unmount_node blue red)",
             "(mount_node blue orange)"
@@ -630,14 +630,14 @@
         "complexity_level": 10,
         "target_action_sequence": [
             "(unmount_node orange red)",
-            "(mount_node orange other)",
+            "(release_payload orange)",
             "(unmount_node red yellow)",
             "(mount_node red orange)",
             "(unmount_node blue white)",
             "(mount_node blue yellow)",
             "(unmount_node red orange)",
             "(mount_node red blue)",
-            "(unmount_node orange other)",
+            "(engage_payload orange)",
             "(mount_node orange red)"
         ]
     },
@@ -664,7 +664,7 @@
         "complexity_level": 8,
         "target_action_sequence": [
             "(unmount_node yellow orange)",
-            "(mount_node yellow other)",
+            "(release_payload yellow)",
             "(engage_payload orange)",
             "(mount_node orange yellow)",
             "(unmount_node blue red)",
@@ -694,16 +694,16 @@
         "complexity_level": 12,
         "target_action_sequence": [
             "(unmount_node red blue)",
-            "(mount_node red other)",
+            "(release_payload red)",
             "(unmount_node blue yellow)",
-            "(mount_node blue second)",
-            "(unmount_node red other)",
+            "(release_payload blue)",
+            "(engage_payload red)",
             "(mount_node red blue)",
             "(unmount_node yellow orange)",
-            "(mount_node yellow other)",
+            "(release_payload yellow)",
             "(engage_payload orange)",
             "(mount_node orange red)",
-            "(unmount_node yellow other)",
+            "(engage_payload yellow)",
             "(mount_node yellow orange)"
         ]
     },
@@ -742,16 +742,16 @@
         "complexity_level": 12,
         "target_action_sequence": [
             "(unmount_node orange yellow)",
-            "(mount_node orange other)",
+            "(release_payload orange)",
             "(unmount_node yellow blue)",
             "(mount_node yellow orange)",
             "(unmount_node blue red)",
-            "(mount_node blue second)",
+            "(release_payload blue)",
             "(engage_payload red)",
             "(mount_node red blue)",
             "(unmount_node yellow orange)",
             "(mount_node yellow red)",
-            "(unmount_node orange other)",
+            "(engage_payload orange)",
             "(mount_node orange yellow)"
         ]
     },
@@ -774,14 +774,14 @@
         "complexity_level": 10,
         "target_action_sequence": [
             "(unmount_node blue yellow)",
-            "(mount_node blue other)",
+            "(release_payload blue)",
             "(unmount_node yellow red)",
             "(mount_node yellow blue)",
             "(unmount_node red orange)",
-            "(mount_node red second)",
+            "(release_payload red)",
             "(unmount_node yellow blue)",
             "(mount_node yellow orange)",
-            "(unmount_node blue other)",
+            "(engage_payload blue)",
             "(mount_node blue red)"
         ]
     },
@@ -808,7 +808,7 @@
         "complexity_level": 8,
         "target_action_sequence": [
             "(unmount_node blue white)",
-            "(mount_node blue other)",
+            "(release_payload blue)",
             "(unmount_node white orange)",
             "(mount_node white blue)",
             "(engage_payload red)",
