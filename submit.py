@@ -22,6 +22,7 @@ def main():
             
             resultados_entrega.append({
                 "assembly_task_id": task_id,
+                "complexity_level": len(plan_generado),
                 "target_action_sequence": plan_generado
             })
             
