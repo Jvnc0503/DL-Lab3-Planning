@@ -1,0 +1,338 @@
+[
+    {
+        "assembly_task_id": "task_f6c3f52f55",
+        "target_action_sequence": [
+            "We need to **rearrange the blocks** to achieve the goal configuration. Since we can only manipulate **one block at a time**, and we can only **mount or unmount** a block **if it is unobstructed**, we need to **temporarily unmount** some blocks to make room for others.",
+            "- The red block is **not unobstructed** (because the orange block is on top of it), so we **cannot unmount** the orange block directly.",
+            "#### **Step 2: Unmount the red block from the blue block**",
+            "- So, we can **unmount** the red block from the blue block.",
+            "> \u2705 **Action:** `Unmount_node the red block from on top of the blue block`"
+        ]
+    },
+    {
+        "assembly_task_id": "task_07a18910c7",
+        "target_action_sequence": [
+            "2. **Unmount the red block from the yellow block**",
+            "- So, we can **unmount it**.",
+            "5. **Unmount the orange block from the blue block**",
+            "- So, we can **unmount it**."
+        ]
+    },
+    {
+        "assembly_task_id": "task_cbe2649f6b",
+        "target_action_sequence": [
+            "- Solo se puede **pick up** o **unmount_node** un bloque a la vez.",
+            "- Solo se puede **pick up** o **unmount_node** si la mano est\u00e1 vac\u00eda.",
+            "- Solo se puede **unmount_node** un bloque si est\u00e1 **realmente sobre otro bloque**.",
+            "- Solo se puede **mount_node** un bloque si se est\u00e1 **sosteniendo**.",
+            "- Solo se puede **mount_node** un bloque si el bloque sobre el cual se monta est\u00e1 **no obstruido**.",
+            "- Al **mount_node** un bloque, el bloque sobre el cual se monta ya **no es obstruido**."
+        ]
+    },
+    {
+        "assembly_task_id": "task_4f181b1e7e",
+        "target_action_sequence": [
+            "- But the **white block** is currently on top of the **orange block**, so we cannot move the **orange block** to the table without first unmounting the **white block**."
+        ]
+    },
+    {
+        "assembly_task_id": "task_9f39e7f413",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_a51e02706c",
+        "target_action_sequence": [
+            "### \u2705 **Step 2: Unmount the red block from the yellow block**",
+            "- So we can **unmount** the red block from the yellow block.",
+            "**Action:** `Unmount_node the red block from on top of the yellow block`",
+            "- So we can **mount** the red"
+        ]
+    },
+    {
+        "assembly_task_id": "task_8a763f838b",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_4d92dfa4d1",
+        "target_action_sequence": [
+            "1. **Unmount_node the yellow block from on top of the blue block**",
+            "4. **Unmount_node the blue block from on top of the red block**"
+        ]
+    },
+    {
+        "assembly_task_id": "task_19c005f4fa",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_98c536f455",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_b516b29d5b",
+        "target_action_sequence": [
+            "1. **Unmount the blue block from the orange block**",
+            "- So we can unmount the blue block from the orange block.",
+            "- So we can mount the blue block on top of the red block."
+        ]
+    },
+    {
+        "assembly_task_id": "task_2833f3d973",
+        "target_action_sequence": [
+            "### **Step 2: Unmount the yellow block from the blue block**",
+            "- We can **unmount** the yellow block from the blue block.",
+            "**Action:** `Unmount_node the yellow block from on top of the blue block`",
+            "- The blue block is **unobstructed** (since the yellow block was just unmounted from it).",
+            "- We can **mount** the red block on top of the blue block."
+        ]
+    },
+    {
+        "assembly_task_id": "task_a2e1da433c",
+        "target_action_sequence": [
+            "1. **Unmount the orange block** from the blue block (since it's on top of it).",
+            "2. **Unmount the red block** from the blue block (since it's on top of it).",
+            "1. **Unmount the orange block from the blue block**"
+        ]
+    },
+    {
+        "assembly_task_id": "task_b05ad833d2",
+        "target_action_sequence": [
+            "- Solo se puede **pick up** o **unmount_node** un bloque si la mano est\u00e1 vac\u00eda.",
+            "- Solo se puede **unmount_node** un bloque si est\u00e1 encima de otro bloque y est\u00e1 **unobstructed**.",
+            "- Al **pick up** o **unmount_node**, la mano se llena.",
+            "- Al **put down** o **mount_node**, la mano se vac\u00eda.",
+            "- Al **mount_node** un bloque, el bloque sobre el cual se coloca ya no es **unobstructed**.",
+            "2. **Unmount_node the blue block from on"
+        ]
+    },
+    {
+        "assembly_task_id": "task_a90c8a54bb",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_dae8652991",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_07201ae0aa",
+        "target_action_sequence": [
+            "2. **Unmount the blue block from the yellow block**",
+            "- El **azul** est\u00e1 realmente sobre el **amarillo**, por lo que se puede **unmount**.",
+            "5. **Unmount the yellow block from"
+        ]
+    },
+    {
+        "assembly_task_id": "task_37dd853373",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_784946134b",
+        "target_action_sequence": [
+            "We need to **unmount** and **re-stack** the blocks in the correct order. Let's break it down step by step.",
+            "2. **Unmount the yellow block from the red block**",
+            "- \u2705 **Unmount the yellow block from the red block**",
+            "5. **Unmount the orange block from the yellow block**",
+            "- \u2705 **Unmount the orange block from the yellow block**"
+        ]
+    },
+    {
+        "assembly_task_id": "task_32d7e53ce2",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_9b148ab9d7",
+        "target_action_sequence": [
+            "1. **Unmount_node el blue block desde el yellow block**",
+            "- El blue block est\u00e1 sobre el yellow block \u2192 puede ser unmounted.",
+            "- El yellow block est\u00e1 en la mesa \u2192 est\u00e1 unobstructed \u2192 puede ser unmounted."
+        ]
+    },
+    {
+        "assembly_task_id": "task_6511a2f246",
+        "target_action_sequence": [
+            "1. **Unmount the yellow block** from the red block.",
+            "1. **Unmount the yellow block from the red block**",
+            "- After unmounting, the yellow block is now on the table."
+        ]
+    },
+    {
+        "assembly_task_id": "task_2cdb57bdd6",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_d9cb8a7219",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_e8b4a49b09",
+        "target_action_sequence": [
+            "- The **yellow block** is **unobstructed**, so it can be **picked up** or **unmounted**.",
+            "- The **white block** is **unobstructed**, so it can be **picked up** or **unmounted**.",
+            "- The **red block** is on the **table**, so it is **unobstructed** and can be **picked up** or **unmounted**.",
+            "- The **blue block** is on the **table**, so it is **unobstructed** and can be **picked up** or **unmounted**.",
+            "- The **orange block** is on top of the **blue block**, so it is **obstructed** and **cannot be picked up** or **unmounted** directly."
+        ]
+    },
+    {
+        "assembly_task_id": "task_380244626c",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_0c4a4b37d9",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_7e684c4e53",
+        "target_action_sequence": [
+            "- **Acci\u00f3n:** `unmount_node Rojo from Naranja`"
+        ]
+    },
+    {
+        "assembly_task_id": "task_251314c577",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_c24d1608bd",
+        "target_action_sequence": [
+            "#### **Step 1: Unmount the yellow block from the orange block**",
+            "- So we can **unmount** the yellow block from the orange block.",
+            "`Unmount_node the yellow block from on top of the orange block`",
+            "#### **Step 4: Unmount the orange block from the blue block**",
+            "- So we can **unmount** the orange block from the blue block.",
+            "`Unmount_node the orange block from on top of the blue"
+        ]
+    },
+    {
+        "assembly_task_id": "task_2661dd18d3",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_a0a699d182",
+        "target_action_sequence": [
+            "#### **1. Unmount_node el blue block from on top of the yellow block**",
+            "- **No se puede unmount_node el Blue** desde **Yellow**, porque **Yellow** no est\u00e1 unobstructed.",
+            "- **Problema:** No se ha podido **Unmount_node** el Blue, por lo que no se puede **Put down**.",
+            "#### **3. Unmount_node el yellow block from on top of the orange block**",
+            "- **No se puede unmount_node el Yellow** desde **Orange**.",
+            "- **Problema:** No se ha podido **Unmount_node** el Yellow, por lo que no se puede **Put down**."
+        ]
+    },
+    {
+        "assembly_task_id": "task_4df345721b",
+        "target_action_sequence": [
+            "- Solo se puede **pick up** o **unmount_node** un bloque a la vez.",
+            "- Solo se puede **pick up** o **unmount_node** si la mano est\u00e1 vac\u00eda.",
+            "- Solo se puede **unmount_node** un bloque si est\u00e1 realmente sobre otro bloque.",
+            "- Solo se puede **mount_node** un bloque si se est\u00e1 sosteniendo.",
+            "- Al **mount_node** un bloque, el bloque sobre el cual se coloca ya no es unobstructed.",
+            "- Al **put down** o **mount_node** un bloque, la mano se vac\u00eda.",
+            "2. **Unmount_node the yellow block from the red block**",
+            "- The red block is now unobstructed (since the yellow block was unmounted)."
+        ]
+    },
+    {
+        "assembly_task_id": "task_6d18e048c6",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_bd47b6bc0e",
+        "target_action_sequence": [
+            "- Solo se puede **pick up** o **unmount_node** un bloque a la vez.",
+            "- Solo se puede **pick up** o **unmount_node** si la mano est\u00e1 vac\u00eda.",
+            "- Solo se puede **unmount_node** un bloque si est\u00e1 **realmente sobre otro bloque**.",
+            "- Solo se puede **unmount_node** si el bloque est\u00e1 **no obstruido**.",
+            "- Al **pick up** o **unmount_node**, se **tiene el bloque en la mano**.",
+            "- Solo se puede **put down** o **mount_node** si se **tiene el bloque en la mano**.",
+            "- Solo se puede **mount_node** si se **tiene el bloque en la mano**.",
+            "- Solo se puede **mount_node** si el bloque **sobre el cual se monta** est\u00e1 **no obstruido**.",
+            "- Al **put down** o **mount_node**, la **mano se vac\u00eda**.",
+            "- Al **mount_node** un bloque sobre otro, el **segundo bloque ya no est\u00e1 obstruido**."
+        ]
+    },
+    {
+        "assembly_task_id": "task_faa891c9fb",
+        "target_action_sequence": [
+            "1. **Unmount_node el bloque Rojo desde sobre el Azul**",
+            "3. **Unmount_node el bloque Azul desde sobre el Amarillo**"
+        ]
+    },
+    {
+        "assembly_task_id": "task_9767ecb84d",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_382b33a282",
+        "target_action_sequence": [
+            "2. **Unmount the blue block from the red block**",
+            "- \u2705 **Unmount the blue block from the red block**",
+            "5. **Unmount the orange block from the yellow block**",
+            "- \u2705 **Unmount the orange block from the yellow block**"
+        ]
+    },
+    {
+        "assembly_task_id": "task_8d7fc8623b",
+        "target_action_sequence": [
+            "2. **Unmount the red block from the yellow block**",
+            "5. **Unmount the blue block from the white block**"
+        ]
+    },
+    {
+        "assembly_task_id": "task_0eb88038e5",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_d3fb474049",
+        "target_action_sequence": [
+            "#### **Step 2: Unmount the blue block from the red block**",
+            "- \u2705 **Unmount the blue block from the red block**.",
+            "- The blue block is now unobstructed (since it was unmounted)."
+        ]
+    },
+    {
+        "assembly_task_id": "task_7d66e7541e",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_7564916d70",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_60d8fa6441",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_7c8f882efa",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_182c209cb4",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_8631399361",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_ff22fcbdb7",
+        "target_action_sequence": [
+            "#### **Step 1: Unmount the blue block from the yellow block**",
+            "- So we can **unmount** the blue block from the yellow block.",
+            "`Unmount_node the blue block from on top of the yellow block`",
+            "#### **Step 3: Unmount the yellow block from the red block**",
+            "- So we can **unmount** the yellow block from the red block.",
+            "`Unmount_node the yellow block from on top of the red block`"
+        ]
+    },
+    {
+        "assembly_task_id": "task_9091b8dd04",
+        "target_action_sequence": []
+    },
+    {
+        "assembly_task_id": "task_fd0b531f2d",
+        "target_action_sequence": [
+            "2. **Unmount the white block from the blue block**",
+            "- So, we can unmount the white block from the blue block.",
+            "- The white block is on the table and unobstructed, so we can mount the yellow block on top of it.",
+            "- So, we can mount the orange block on top of the yellow block."
+        ]
+    }
+]
