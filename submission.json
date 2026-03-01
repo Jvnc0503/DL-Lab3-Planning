@@ -15,79 +15,23 @@
     },
     {
         "assembly_task_id": "task_07a18910c7",
-        "complexity_level": 10,
-        "target_action_sequence": [
-            "(unmount_node red yellow)",
-            "(release_payload red)",
-            "(unmount_node orange blue)",
-            "(mount_node orange yellow)",
-            "(engage_payload blue)",
-            "(mount_node blue red)",
-            "(unmount_node orange yellow)",
-            "(mount_node orange blue)",
-            "(engage_payload yellow)",
-            "(mount_node yellow orange)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_cbe2649f6b",
-        "complexity_level": 12,
-        "target_action_sequence": [
-            "(unmount_node blue yellow)",
-            "(release_payload blue)",
-            "(unmount_node yellow red)",
-            "(release_payload yellow)",
-            "(unmount_node red orange)",
-            "(mount_node red blue)",
-            "(engage_payload orange)",
-            "(mount_node orange yellow)",
-            "(unmount_node red blue)",
-            "(mount_node red orange)",
-            "(engage_payload blue)",
-            "(mount_node blue red)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_4f181b1e7e",
-        "complexity_level": 14,
-        "target_action_sequence": [
-            "(unmount_node yellow red)",
-            "(release_payload yellow)",
-            "(unmount_node red white)",
-            "(mount_node red yellow)",
-            "(unmount_node white orange)",
-            "(mount_node white red)",
-            "(unmount_node orange blue)",
-            "(release_payload orange)",
-            "(engage_payload blue)",
-            "(mount_node blue orange)",
-            "(unmount_node white red)",
-            "(mount_node white blue)",
-            "(unmount_node red yellow)",
-            "(mount_node red white)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_9f39e7f413",
-        "complexity_level": 16,
-        "target_action_sequence": [
-            "(unmount_node orange red)",
-            "(release_payload orange)",
-            "(unmount_node red blue)",
-            "(release_payload red)",
-            "(unmount_node blue white)",
-            "(release_payload blue)",
-            "(unmount_node white yellow)",
-            "(release_payload white)",
-            "(engage_payload yellow)",
-            "(mount_node yellow red)",
-            "(engage_payload orange)",
-            "(mount_node orange yellow)",
-            "(engage_payload blue)",
-            "(mount_node blue orange)",
-            "(engage_payload white)",
-            "(mount_node white blue)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_a51e02706c",
@@ -121,21 +65,8 @@
     },
     {
         "assembly_task_id": "task_4d92dfa4d1",
-        "complexity_level": 12,
-        "target_action_sequence": [
-            "(unmount_node yellow blue)",
-            "(release_payload yellow)",
-            "(unmount_node blue red)",
-            "(mount_node blue yellow)",
-            "(unmount_node red orange)",
-            "(release_payload red)",
-            "(unmount_node blue yellow)",
-            "(mount_node blue orange)",
-            "(engage_payload red)",
-            "(mount_node red blue)",
-            "(engage_payload yellow)",
-            "(mount_node yellow red)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_19c005f4fa",
@@ -202,7 +133,7 @@
             "(unmount_node yellow blue)",
             "(release_payload yellow)",
             "(unmount_node blue orange)",
-            "(mount_node blue yellow)",
+            "(release_payload blue)",
             "(engage_payload red)",
             "(mount_node red blue)",
             "(engage_payload orange)",
@@ -211,51 +142,18 @@
     },
     {
         "assembly_task_id": "task_a2e1da433c",
-        "complexity_level": 12,
-        "target_action_sequence": [
-            "(unmount_node orange blue)",
-            "(release_payload orange)",
-            "(unmount_node blue red)",
-            "(release_payload blue)",
-            "(unmount_node red yellow)",
-            "(mount_node red orange)",
-            "(engage_payload yellow)",
-            "(mount_node yellow blue)",
-            "(unmount_node red orange)",
-            "(mount_node red yellow)",
-            "(engage_payload orange)",
-            "(mount_node orange red)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_b05ad833d2",
-        "complexity_level": 8,
-        "target_action_sequence": [
-            "(unmount_node yellow blue)",
-            "(mount_node yellow red)",
-            "(unmount_node blue orange)",
-            "(release_payload blue)",
-            "(engage_payload orange)",
-            "(mount_node orange yellow)",
-            "(engage_payload blue)",
-            "(mount_node blue orange)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_a90c8a54bb",
-        "complexity_level": 10,
-        "target_action_sequence": [
-            "(unmount_node red blue)",
-            "(release_payload red)",
-            "(unmount_node blue orange)",
-            "(release_payload blue)",
-            "(unmount_node orange yellow)",
-            "(mount_node orange red)",
-            "(engage_payload blue)",
-            "(mount_node blue orange)",
-            "(engage_payload yellow)",
-            "(mount_node yellow blue)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_dae8652991",
@@ -277,17 +175,8 @@
     },
     {
         "assembly_task_id": "task_07201ae0aa",
-        "complexity_level": 8,
-        "target_action_sequence": [
-            "(unmount_node blue orange)",
-            "(release_payload blue)",
-            "(unmount_node orange red)",
-            "(release_payload orange)",
-            "(engage_payload blue)",
-            "(mount_node blue red)",
-            "(engage_payload orange)",
-            "(mount_node orange blue)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_37dd853373",
@@ -307,21 +196,8 @@
     },
     {
         "assembly_task_id": "task_784946134b",
-        "complexity_level": 12,
-        "target_action_sequence": [
-            "(unmount_node blue orange)",
-            "(release_payload blue)",
-            "(unmount_node orange yellow)",
-            "(release_payload orange)",
-            "(unmount_node yellow red)",
-            "(release_payload yellow)",
-            "(engage_payload blue)",
-            "(mount_node blue yellow)",
-            "(engage_payload orange)",
-            "(mount_node orange blue)",
-            "(engage_payload red)",
-            "(mount_node red orange)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_32d7e53ce2",
@@ -355,21 +231,8 @@
     },
     {
         "assembly_task_id": "task_6511a2f246",
-        "complexity_level": 12,
-        "target_action_sequence": [
-            "(unmount_node yellow red)",
-            "(release_payload yellow)",
-            "(unmount_node red orange)",
-            "(mount_node red yellow)",
-            "(unmount_node orange blue)",
-            "(release_payload orange)",
-            "(unmount_node red yellow)",
-            "(mount_node red orange)",
-            "(engage_payload blue)",
-            "(mount_node blue red)",
-            "(engage_payload yellow)",
-            "(mount_node yellow blue)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_2cdb57bdd6",
@@ -403,21 +266,8 @@
     },
     {
         "assembly_task_id": "task_e8b4a49b09",
-        "complexity_level": 12,
-        "target_action_sequence": [
-            "(unmount_node yellow orange)",
-            "(mount_node yellow white)",
-            "(unmount_node orange blue)",
-            "(release_payload orange)",
-            "(unmount_node yellow white)",
-            "(mount_node yellow blue)",
-            "(engage_payload orange)",
-            "(mount_node orange yellow)",
-            "(unmount_node white red)",
-            "(mount_node white orange)",
-            "(engage_payload red)",
-            "(mount_node red white)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_380244626c",
@@ -451,21 +301,8 @@
     },
     {
         "assembly_task_id": "task_7e684c4e53",
-        "complexity_level": 12,
-        "target_action_sequence": [
-            "(unmount_node red orange)",
-            "(release_payload red)",
-            "(unmount_node orange yellow)",
-            "(release_payload orange)",
-            "(unmount_node yellow blue)",
-            "(mount_node yellow orange)",
-            "(engage_payload red)",
-            "(mount_node red blue)",
-            "(unmount_node yellow orange)",
-            "(mount_node yellow red)",
-            "(engage_payload orange)",
-            "(mount_node orange yellow)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_251314c577",
@@ -499,51 +336,18 @@
     },
     {
         "assembly_task_id": "task_2661dd18d3",
-        "complexity_level": 12,
-        "target_action_sequence": [
-            "(unmount_node orange yellow)",
-            "(release_payload orange)",
-            "(unmount_node yellow white)",
-            "(mount_node yellow orange)",
-            "(unmount_node white red)",
-            "(release_payload white)",
-            "(unmount_node red blue)",
-            "(mount_node red yellow)",
-            "(engage_payload white)",
-            "(mount_node white red)",
-            "(engage_payload blue)",
-            "(mount_node blue white)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_a0a699d182",
-        "complexity_level": 8,
-        "target_action_sequence": [
-            "(unmount_node orange blue)",
-            "(release_payload orange)",
-            "(unmount_node blue yellow)",
-            "(release_payload blue)",
-            "(engage_payload red)",
-            "(mount_node red yellow)",
-            "(engage_payload orange)",
-            "(mount_node orange red)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_4df345721b",
-        "complexity_level": 10,
-        "target_action_sequence": [
-            "(unmount_node yellow red)",
-            "(release_payload yellow)",
-            "(unmount_node red blue)",
-            "(release_payload red)",
-            "(engage_payload orange)",
-            "(mount_node orange blue)",
-            "(engage_payload yellow)",
-            "(mount_node yellow orange)",
-            "(engage_payload red)",
-            "(mount_node red yellow)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_6d18e048c6",
@@ -579,19 +383,8 @@
     },
     {
         "assembly_task_id": "task_faa891c9fb",
-        "complexity_level": 10,
-        "target_action_sequence": [
-            "(unmount_node red blue)",
-            "(release_payload red)",
-            "(unmount_node blue yellow)",
-            "(release_payload blue)",
-            "(engage_payload yellow)",
-            "(mount_node yellow orange)",
-            "(engage_payload red)",
-            "(mount_node red yellow)",
-            "(engage_payload blue)",
-            "(mount_node blue red)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_9767ecb84d",
@@ -613,33 +406,13 @@
     },
     {
         "assembly_task_id": "task_382b33a282",
-        "complexity_level": 8,
-        "target_action_sequence": [
-            "(unmount_node orange yellow)",
-            "(release_payload orange)",
-            "(unmount_node yellow blue)",
-            "(release_payload yellow)",
-            "(engage_payload orange)",
-            "(mount_node orange yellow)",
-            "(unmount_node blue red)",
-            "(mount_node blue orange)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_8d7fc8623b",
-        "complexity_level": 10,
-        "target_action_sequence": [
-            "(unmount_node orange red)",
-            "(release_payload orange)",
-            "(unmount_node red yellow)",
-            "(mount_node red orange)",
-            "(unmount_node blue white)",
-            "(mount_node blue yellow)",
-            "(unmount_node red orange)",
-            "(mount_node red blue)",
-            "(engage_payload orange)",
-            "(mount_node orange red)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_0eb88038e5",
@@ -691,21 +464,8 @@
     },
     {
         "assembly_task_id": "task_7564916d70",
-        "complexity_level": 12,
-        "target_action_sequence": [
-            "(unmount_node red blue)",
-            "(release_payload red)",
-            "(unmount_node blue yellow)",
-            "(release_payload blue)",
-            "(engage_payload red)",
-            "(mount_node red blue)",
-            "(unmount_node yellow orange)",
-            "(release_payload yellow)",
-            "(engage_payload orange)",
-            "(mount_node orange red)",
-            "(engage_payload yellow)",
-            "(mount_node yellow orange)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_60d8fa6441",
@@ -739,21 +499,8 @@
     },
     {
         "assembly_task_id": "task_182c209cb4",
-        "complexity_level": 12,
-        "target_action_sequence": [
-            "(unmount_node orange yellow)",
-            "(release_payload orange)",
-            "(unmount_node yellow blue)",
-            "(mount_node yellow orange)",
-            "(unmount_node blue red)",
-            "(release_payload blue)",
-            "(engage_payload red)",
-            "(mount_node red blue)",
-            "(unmount_node yellow orange)",
-            "(mount_node yellow red)",
-            "(engage_payload orange)",
-            "(mount_node orange yellow)"
-        ]
+        "complexity_level": 0,
+        "target_action_sequence": []
     },
     {
         "assembly_task_id": "task_8631399361",
@@ -776,13 +523,13 @@
             "(unmount_node blue yellow)",
             "(release_payload blue)",
             "(unmount_node yellow red)",
-            "(mount_node yellow blue)",
+            "(release_payload yellow)",
             "(unmount_node red orange)",
             "(release_payload red)",
-            "(unmount_node yellow blue)",
-            "(mount_node yellow orange)",
             "(engage_payload blue)",
-            "(mount_node blue red)"
+            "(mount_node blue red)",
+            "(engage_payload yellow)",
+            "(mount_node yellow orange)"
         ]
     },
     {
