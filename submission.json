@@ -1,27 +1,101 @@
 [
     {
         "assembly_task_id": "task_f6c3f52f55",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the orange block from on top of the red block",
+            "mount_node the orange block on top of the other block",
+            "unmount_node the red block from on top of the blue block",
+            "mount_node the red block on top of the orange block",
+            "pick up the blue block",
+            "mount_node the blue block on top of the red block",
+            "pick up the yellow block",
+            "mount_node the yellow block on top of the blue block"
+        ]
     },
     {
         "assembly_task_id": "task_07a18910c7",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the red block from on top of the yellow block",
+            "mount_node the red block on top of the other block",
+            "unmount_node the orange block from on top of the blue block",
+            "mount_node the orange block on top of the second block",
+            "pick up the blue block",
+            "mount_node the blue block on top of the red block",
+            "unmount_node the orange block from on top of the second block",
+            "mount_node the orange block on top of the blue block",
+            "pick up the yellow block",
+            "mount_node the yellow block on top of the orange block"
+        ]
     },
     {
         "assembly_task_id": "task_cbe2649f6b",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the blue block from on top of the yellow block",
+            "mount_node the blue block on top of the other block",
+            "unmount_node the yellow block from on top of the red block",
+            "mount_node the yellow block on top of the second block",
+            "unmount_node the red block from on top of the orange block",
+            "mount_node the red block on top of the blue block",
+            "pick up the orange block",
+            "mount_node the orange block on top of the yellow block",
+            "unmount_node the red block from on top of the blue block",
+            "mount_node the red block on top of the orange block",
+            "unmount_node the blue block from on top of the other block",
+            "mount_node the blue block on top of the red block"
+        ]
     },
     {
         "assembly_task_id": "task_4f181b1e7e",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the yellow block from on top of the red block",
+            "mount_node the yellow block on top of the other block",
+            "unmount_node the red block from on top of the white block",
+            "mount_node the red block on top of the second block",
+            "unmount_node the white block from on top of the orange block",
+            "mount_node the white block on top of the red block",
+            "unmount_node the orange block from on top of the blue block",
+            "mount_node the orange block on top of the yellow block",
+            "pick up the blue block",
+            "mount_node the blue block on top of the orange block",
+            "unmount_node the white block from on top of the red block",
+            "mount_node the white block on top of the blue block",
+            "unmount_node the red block from on top of the second block",
+            "mount_node the red block on top of the white block"
+        ]
     },
     {
         "assembly_task_id": "task_9f39e7f413",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the orange block from on top of the red block",
+            "mount_node the orange block on top of the other block",
+            "unmount_node the red block from on top of the blue block",
+            "mount_node the red block on top of the second block",
+            "unmount_node the blue block from on top of the white block",
+            "put down the blue block",
+            "unmount_node the white block from on top of the yellow block",
+            "put down the white block",
+            "pick up the yellow block",
+            "mount_node the yellow block on top of the red block",
+            "unmount_node the orange block from on top of the other block",
+            "mount_node the orange block on top of the yellow block",
+            "pick up the blue block",
+            "mount_node the blue block on top of the orange block",
+            "pick up the white block",
+            "mount_node the white block on top of the blue block"
+        ]
     },
     {
         "assembly_task_id": "task_a51e02706c",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the red block from on top of the yellow block",
+            "mount_node the red block on top of the other block",
+            "pick up the blue block",
+            "mount_node the blue block on top of the red block",
+            "unmount_node the yellow block from on top of the orange block",
+            "mount_node the yellow block on top of the second block",
+            "pick up the orange block",
+            "mount_node the orange block on top of the blue block"
+        ]
     },
     {
         "assembly_task_id": "task_8a763f838b",
@@ -40,7 +114,20 @@
     },
     {
         "assembly_task_id": "task_4d92dfa4d1",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the yellow block from on top of the blue block",
+            "mount_node the yellow block on top of the other block",
+            "unmount_node the blue block from on top of the red block",
+            "mount_node the blue block on top of the second block",
+            "unmount_node the red block from on top of the orange block",
+            "mount_node the red block on top of the yellow block",
+            "unmount_node the blue block from on top of the second block",
+            "mount_node the blue block on top of the orange block",
+            "unmount_node the red block from on top of the yellow block",
+            "mount_node the red block on top of the blue block",
+            "unmount_node the yellow block from on top of the other block",
+            "mount_node the yellow block on top of the red block"
+        ]
     },
     {
         "assembly_task_id": "task_19c005f4fa",
@@ -64,40 +151,96 @@
     {
         "assembly_task_id": "task_98c536f455",
         "target_action_sequence": [
-            "(overcome e d)",
-            "(feast e a)",
-            "(succumb e)",
-            "(attack e)",
-            "(overcome e b)",
-            "(feast b c)",
-            "(succumb b)",
-            "(attack b)",
-            "(overcome b e)",
-            "(feast c d)",
+            "(feast c a)",
             "(succumb c)",
+            "(feast a b)",
+            "(succumb a)",
+            "(feast b e)",
+            "(succumb b)",
+            "(feast e d)",
+            "(succumb e)",
+            "(attack d)",
+            "(overcome d a)",
             "(attack c)",
-            "(overcome c b)"
+            "(overcome c d)",
+            "(attack b)",
+            "(overcome b c)",
+            "(attack e)",
+            "(overcome e b)"
         ]
     },
     {
         "assembly_task_id": "task_b516b29d5b",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the blue block from on top of the orange block",
+            "mount_node the blue block on top of the other block",
+            "unmount_node the orange block from on top of the red block",
+            "mount_node the orange block on top of the second block",
+            "pick up the red block",
+            "mount_node the red block on top of the orange block",
+            "unmount_node the blue block from on top of the other block",
+            "mount_node the blue block on top of the red block"
+        ]
     },
     {
         "assembly_task_id": "task_2833f3d973",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the red block from on top of the yellow block",
+            "mount_node the red block on top of the other block",
+            "unmount_node the yellow block from on top of the blue block",
+            "mount_node the yellow block on top of the second block",
+            "unmount_node the blue block from on top of the orange block",
+            "mount_node the blue block on top of the yellow block",
+            "unmount_node the red block from on top of the other block",
+            "mount_node the red block on top of the blue block",
+            "pick up the orange block",
+            "mount_node the orange block on top of the red block"
+        ]
     },
     {
         "assembly_task_id": "task_a2e1da433c",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the orange block from on top of the blue block",
+            "mount_node the orange block on top of the other block",
+            "unmount_node the blue block from on top of the red block",
+            "mount_node the blue block on top of the second block",
+            "unmount_node the red block from on top of the yellow block",
+            "mount_node the red block on top of the orange block",
+            "pick up the yellow block",
+            "mount_node the yellow block on top of the blue block",
+            "unmount_node the red block from on top of the orange block",
+            "mount_node the red block on top of the yellow block",
+            "unmount_node the orange block from on top of the other block",
+            "mount_node the orange block on top of the red block"
+        ]
     },
     {
         "assembly_task_id": "task_b05ad833d2",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the yellow block from on top of the blue block",
+            "mount_node the yellow block on top of the other block",
+            "unmount_node the blue block from on top of the orange block",
+            "mount_node the blue block on top of the red block",
+            "pick up the orange block",
+            "mount_node the orange block on top of the yellow block",
+            "unmount_node the blue block from on top of the red block",
+            "mount_node the blue block on top of the orange block"
+        ]
     },
     {
         "assembly_task_id": "task_a90c8a54bb",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the red block from on top of the blue block",
+            "mount_node the red block on top of the other block",
+            "unmount_node the blue block from on top of the orange block",
+            "mount_node the blue block on top of the second block",
+            "unmount_node the orange block from on top of the yellow block",
+            "mount_node the orange block on top of the red block",
+            "unmount_node the blue block from on top of the second block",
+            "mount_node the blue block on top of the orange block",
+            "pick up the yellow block",
+            "mount_node the yellow block on top of the blue block"
+        ]
     },
     {
         "assembly_task_id": "task_dae8652991",
@@ -118,7 +261,16 @@
     },
     {
         "assembly_task_id": "task_07201ae0aa",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the blue block from on top of the orange block",
+            "mount_node the blue block on top of the other block",
+            "unmount_node the orange block from on top of the red block",
+            "mount_node the orange block on top of the second block",
+            "unmount_node the blue block from on top of the other block",
+            "mount_node the blue block on top of the red block",
+            "unmount_node the orange block from on top of the second block",
+            "mount_node the orange block on top of the blue block"
+        ]
     },
     {
         "assembly_task_id": "task_37dd853373",
@@ -137,7 +289,20 @@
     },
     {
         "assembly_task_id": "task_784946134b",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the blue block from on top of the orange block",
+            "mount_node the blue block on top of the other block",
+            "unmount_node the orange block from on top of the yellow block",
+            "mount_node the orange block on top of the second block",
+            "unmount_node the yellow block from on top of the red block",
+            "put down the yellow block",
+            "unmount_node the blue block from on top of the other block",
+            "mount_node the blue block on top of the yellow block",
+            "unmount_node the orange block from on top of the second block",
+            "mount_node the orange block on top of the blue block",
+            "pick up the red block",
+            "mount_node the red block on top of the orange block"
+        ]
     },
     {
         "assembly_task_id": "task_32d7e53ce2",
@@ -154,11 +319,35 @@
     },
     {
         "assembly_task_id": "task_9b148ab9d7",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the red block from on top of the white block",
+            "mount_node the red block on top of the other block",
+            "unmount_node the white block from on top of the orange block",
+            "mount_node the white block on top of the second block",
+            "unmount_node the blue block from on top of the yellow block",
+            "mount_node the blue block on top of the white block",
+            "pick up the orange block",
+            "mount_node the orange block on top of the red block",
+            "pick up the yellow block",
+            "mount_node the yellow block on top of the blue block"
+        ]
     },
     {
         "assembly_task_id": "task_6511a2f246",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the yellow block from on top of the red block",
+            "mount_node the yellow block on top of the other block",
+            "unmount_node the red block from on top of the orange block",
+            "mount_node the red block on top of the second block",
+            "unmount_node the orange block from on top of the blue block",
+            "put down the orange block",
+            "unmount_node the red block from on top of the second block",
+            "mount_node the red block on top of the orange block",
+            "pick up the blue block",
+            "mount_node the blue block on top of the red block",
+            "unmount_node the yellow block from on top of the other block",
+            "mount_node the yellow block on top of the blue block"
+        ]
     },
     {
         "assembly_task_id": "task_2cdb57bdd6",
@@ -190,7 +379,20 @@
     },
     {
         "assembly_task_id": "task_e8b4a49b09",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the yellow block from on top of the orange block",
+            "mount_node the yellow block on top of the other block",
+            "unmount_node the orange block from on top of the blue block",
+            "mount_node the orange block on top of the second block",
+            "unmount_node the yellow block from on top of the other block",
+            "mount_node the yellow block on top of the blue block",
+            "unmount_node the orange block from on top of the second block",
+            "mount_node the orange block on top of the yellow block",
+            "unmount_node the white block from on top of the red block",
+            "mount_node the white block on top of the orange block",
+            "pick up the red block",
+            "mount_node the red block on top of the white block"
+        ]
     },
     {
         "assembly_task_id": "task_380244626c",
@@ -222,7 +424,20 @@
     },
     {
         "assembly_task_id": "task_7e684c4e53",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the red block from on top of the orange block",
+            "mount_node the red block on top of the other block",
+            "unmount_node the orange block from on top of the yellow block",
+            "mount_node the orange block on top of the second block",
+            "unmount_node the yellow block from on top of the blue block",
+            "mount_node the yellow block on top of the orange block",
+            "unmount_node the red block from on top of the other block",
+            "mount_node the red block on top of the blue block",
+            "unmount_node the yellow block from on top of the orange block",
+            "mount_node the yellow block on top of the red block",
+            "unmount_node the orange block from on top of the second block",
+            "mount_node the orange block on top of the yellow block"
+        ]
     },
     {
         "assembly_task_id": "task_251314c577",
@@ -239,19 +454,63 @@
     },
     {
         "assembly_task_id": "task_c24d1608bd",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the yellow block from on top of the orange block",
+            "mount_node the yellow block on top of the other block",
+            "unmount_node the orange block from on top of the blue block",
+            "mount_node the orange block on top of the second block",
+            "unmount_node the blue block from on top of the red block",
+            "put down the blue block",
+            "unmount_node the yellow block from on top of the other block",
+            "mount_node the yellow block on top of the blue block",
+            "pick up the red block",
+            "mount_node the red block on top of the orange block"
+        ]
     },
     {
         "assembly_task_id": "task_2661dd18d3",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the orange block from on top of the yellow block",
+            "mount_node the orange block on top of the other block",
+            "unmount_node the yellow block from on top of the white block",
+            "mount_node the yellow block on top of the orange block",
+            "unmount_node the white block from on top of the red block",
+            "mount_node the white block on top of the second block",
+            "unmount_node the red block from on top of the blue block",
+            "mount_node the red block on top of the yellow block",
+            "unmount_node the white block from on top of the second block",
+            "mount_node the white block on top of the red block",
+            "pick up the blue block",
+            "mount_node the blue block on top of the white block"
+        ]
     },
     {
         "assembly_task_id": "task_a0a699d182",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the orange block from on top of the blue block",
+            "mount_node the orange block on top of the other block",
+            "unmount_node the blue block from on top of the yellow block",
+            "mount_node the blue block on top of the second block",
+            "pick up the red block",
+            "mount_node the red block on top of the yellow block",
+            "unmount_node the orange block from on top of the other block",
+            "mount_node the orange block on top of the red block"
+        ]
     },
     {
         "assembly_task_id": "task_4df345721b",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the yellow block from on top of the red block",
+            "mount_node the yellow block on top of the other block",
+            "unmount_node the red block from on top of the blue block",
+            "mount_node the red block on top of the second block",
+            "pick up the orange block",
+            "mount_node the orange block on top of the blue block",
+            "unmount_node the yellow block from on top of the other block",
+            "mount_node the yellow block on top of the orange block",
+            "unmount_node the red block from on top of the second block",
+            "mount_node the red block on top of the yellow block"
+        ]
     },
     {
         "assembly_task_id": "task_6d18e048c6",
@@ -272,11 +531,31 @@
     },
     {
         "assembly_task_id": "task_bd47b6bc0e",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the blue block from on top of the orange block",
+            "mount_node the blue block on top of the other block",
+            "unmount_node the yellow block from on top of the red block",
+            "mount_node the yellow block on top of the second block",
+            "pick up the red block",
+            "mount_node the red block on top of the orange block",
+            "unmount_node the blue block from on top of the other block",
+            "mount_node the blue block on top of the red block"
+        ]
     },
     {
         "assembly_task_id": "task_faa891c9fb",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the red block from on top of the blue block",
+            "mount_node the red block on top of the other block",
+            "unmount_node the blue block from on top of the yellow block",
+            "mount_node the blue block on top of the second block",
+            "pick up the yellow block",
+            "mount_node the yellow block on top of the orange block",
+            "unmount_node the red block from on top of the other block",
+            "mount_node the red block on top of the yellow block",
+            "unmount_node the blue block from on top of the second block",
+            "mount_node the blue block on top of the red block"
+        ]
     },
     {
         "assembly_task_id": "task_9767ecb84d",
@@ -297,11 +576,31 @@
     },
     {
         "assembly_task_id": "task_382b33a282",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the orange block from on top of the yellow block",
+            "mount_node the orange block on top of the other block",
+            "unmount_node the yellow block from on top of the blue block",
+            "mount_node the yellow block on top of the second block",
+            "unmount_node the orange block from on top of the other block",
+            "mount_node the orange block on top of the yellow block",
+            "unmount_node the blue block from on top of the red block",
+            "mount_node the blue block on top of the orange block"
+        ]
     },
     {
         "assembly_task_id": "task_8d7fc8623b",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the orange block from on top of the red block",
+            "mount_node the orange block on top of the other block",
+            "unmount_node the red block from on top of the yellow block",
+            "mount_node the red block on top of the orange block",
+            "unmount_node the blue block from on top of the white block",
+            "mount_node the blue block on top of the yellow block",
+            "unmount_node the red block from on top of the orange block",
+            "mount_node the red block on top of the blue block",
+            "unmount_node the orange block from on top of the other block",
+            "mount_node the orange block on top of the red block"
+        ]
     },
     {
         "assembly_task_id": "task_0eb88038e5",
@@ -322,7 +621,16 @@
     },
     {
         "assembly_task_id": "task_d3fb474049",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the yellow block from on top of the orange block",
+            "mount_node the yellow block on top of the other block",
+            "pick up the orange block",
+            "mount_node the orange block on top of the yellow block",
+            "unmount_node the blue block from on top of the red block",
+            "mount_node the blue block on top of the orange block",
+            "pick up the red block",
+            "mount_node the red block on top of the blue block"
+        ]
     },
     {
         "assembly_task_id": "task_7d66e7541e",
@@ -341,7 +649,20 @@
     },
     {
         "assembly_task_id": "task_7564916d70",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the red block from on top of the blue block",
+            "mount_node the red block on top of the other block",
+            "unmount_node the blue block from on top of the yellow block",
+            "mount_node the blue block on top of the second block",
+            "unmount_node the red block from on top of the other block",
+            "mount_node the red block on top of the blue block",
+            "unmount_node the yellow block from on top of the orange block",
+            "mount_node the yellow block on top of the other block",
+            "pick up the orange block",
+            "mount_node the orange block on top of the red block",
+            "unmount_node the yellow block from on top of the other block",
+            "mount_node the yellow block on top of the orange block"
+        ]
     },
     {
         "assembly_task_id": "task_60d8fa6441",
@@ -373,7 +694,20 @@
     },
     {
         "assembly_task_id": "task_182c209cb4",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the orange block from on top of the yellow block",
+            "mount_node the orange block on top of the other block",
+            "unmount_node the yellow block from on top of the blue block",
+            "mount_node the yellow block on top of the orange block",
+            "unmount_node the blue block from on top of the red block",
+            "mount_node the blue block on top of the second block",
+            "pick up the red block",
+            "mount_node the red block on top of the blue block",
+            "unmount_node the yellow block from on top of the orange block",
+            "mount_node the yellow block on top of the red block",
+            "unmount_node the orange block from on top of the other block",
+            "mount_node the orange block on top of the yellow block"
+        ]
     },
     {
         "assembly_task_id": "task_8631399361",
@@ -390,7 +724,18 @@
     },
     {
         "assembly_task_id": "task_ff22fcbdb7",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the blue block from on top of the yellow block",
+            "mount_node the blue block on top of the other block",
+            "unmount_node the yellow block from on top of the red block",
+            "mount_node the yellow block on top of the blue block",
+            "unmount_node the red block from on top of the orange block",
+            "mount_node the red block on top of the second block",
+            "unmount_node the yellow block from on top of the blue block",
+            "mount_node the yellow block on top of the orange block",
+            "unmount_node the blue block from on top of the other block",
+            "mount_node the blue block on top of the red block"
+        ]
     },
     {
         "assembly_task_id": "task_9091b8dd04",
@@ -411,6 +756,15 @@
     },
     {
         "assembly_task_id": "task_fd0b531f2d",
-        "target_action_sequence": []
+        "target_action_sequence": [
+            "unmount_node the blue block from on top of the white block",
+            "mount_node the blue block on top of the other block",
+            "unmount_node the white block from on top of the orange block",
+            "mount_node the white block on top of the blue block",
+            "pick up the red block",
+            "mount_node the red block on top of the white block",
+            "pick up the yellow block",
+            "mount_node the yellow block on top of the orange block"
+        ]
     }
 ]
